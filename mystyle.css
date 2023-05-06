@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #ffffff;
+}
+.navbar {
+    background: #051342;
+    
+}
+
+.main{
+    background: #051342;
+    color: #ffffff;
+}
+.head{
+   margin-top: 150px;
+   margin-left: 20px; 
+}
+
+.box1{
+    border: 1px solid #07a7e8;
+    width: 400px;
+    height: 300px;
+   text-align: center;
+    
+}
+.box2{
+    border: 1px solid #07a7e8;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    
+}
+.box3{
+    border: 1px solid #07a7e8;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    
+}
+.box4{
+    border: 1px solid #07a7e8;
+    width: 210px;
+    height: 330px;
+    text-align: center;
+}
+.service{
+    
+    text-align: center;
+}
+.services{
+    margin-top: 8px;
+}
+p{
+    font-size: 18px;
+    line-height: px;
+}
+.main-2{
+    background-color: #f5fafe;
+    margin-top: 20px;
+    height: 500px;
+}
+
+.card{
+    
+    border: 1px solid #07a7e8;
+}
+
+.user-content p{
+    margin-top:5px;
+    font-size:12px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #0a6efd;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #0a6efd;
+  }
+  
+  .cotact {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  .last,li a{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+ }
+.footer-1{
+    background: #06225E;
+}
+h5{
+    color: #ffffff;
+}
